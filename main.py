@@ -1,7 +1,7 @@
 
 
 import google.generativeai as palm
-palm.configure(api_key="AIzaSyA9m8Vu9mU2RaK2Z_q2grbcoXPx-C3D9N4")
+palm.configure(api_key="API KEY")
 
 defaults = {
   'model': 'models/text-bison-001',
